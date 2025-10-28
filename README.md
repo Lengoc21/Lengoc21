@@ -1,32 +1,28 @@
-<h1 align="center">Hi there, I'm Lê Ngọc 💖</h1>
+from PIL import Image
+import glob
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/master/Loop%20Munching.gif" width="300" alt="Loopy Munching gif"/>
-</p>
+def create_capybara_gif(output_filename="ngoc_capybara.gif", duration_ms=200):
+    # Use glob to find all images, assuming they are named predictably (e.g., capy01.png, capy02.png)
+    # The 'sorted' function ensures they are processed in order
+    image_paths = sorted(glob.glob("capy*.png")) 
 
-<p align="center" style="font-size:18px;">
-  🌷 I'm a pink Loopy learning to code and spread good vibes ✨<br/>
-  🍓 Love Python, cute UI, and bubble tea breaks 🧋<br/>
-  🧠 Currently exploring: Web Dev + AI magic 🪄
-</p>
+    if not image_paths:
+        print("Error: No images found matching 'capy*.png'.")
+        return
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Loopy%20Mode%20On-ffb6c1?style=for-the-badge" alt="Loopy badge"/>
-  <img src="https://img.shields.io/badge/-Follow%20Me!-ff69b4?style=for-the-badge" alt="follow"/>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4&label=Profile+Views" alt="views"/>
-</p>
+    # Load all images using Pillow
+    images = [Image.open(path) for path in image_paths]
 
----
+    # Save the first image, appending the rest as frames
+    images[0].save(
+        output_filename,
+        save_all=True,
+        append_images=images[1:],
+        duration=duration_ms, 
+        loop=0
+    )
+    print(f"GIF '{output_filename}' created successfully!")
 
-<p align="center">
-  <pre style="text-align:center; font-size:12px; line-height:10px;">
-   ♡(˶˘ ³˘)ノ💻  
-   (\_ _/)
-   (｡•‿•｡)っ💕  
-   / >🍰
-  </pre>
-</p>
-
-<p align="center">
-  <sub>Made with 💗 by a tiny Loopy who loves to code and dream big ✨</sub>
-</p>
+if __name__ == "__main__":
+    # Ensure you have images named like capy01.png, capy02.png, etc., in your folder
+    create_capybara_gif()
