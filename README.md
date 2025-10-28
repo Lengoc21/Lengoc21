@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lê Ngọc 💖</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/Loop%20Munching.gif" width="300" alt="Loopy munching gif"/>
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/master/Loop%20Munching.gif" width="300" alt="Loopy Munching gif"/>
 </p>
 
 <p align="center" style="font-size:18px;">
