@@ -1,7 +1,8 @@
 <h1 align="center">Hi there, I'm Lê Ngọc 💖</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGpybnV1b2NldjhmcHduZXpzZmN4Zm82dHZxZ3A2NXRha3c5bGdraiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xKaR836UJOYeOc/giphy.gif" width="0" height="0" style="display:none" alt="Loopy waving gif (hidden)"/>
+ <img src="https://raw.githubusercontent.com/<username>/<repo>/main/assets/loopy.gif" width="300"/>
+width="0" height="0" style="display:none" alt="Loopy waving gif (hidden)"/>
   <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="300" alt="Bunny eating lettuce gif"/>
 </p>
 
