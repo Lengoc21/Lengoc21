@@ -21,11 +21,24 @@
 
 ---
 
-### 🎧 My Favourite Music  
+<h2 align="center">🎧 really like music 🎶</h2>
 
-1. 🎵 *“Until I Found You” – Stephen Sanchez*  
-2. 💫 *“Lover” – Taylor Swift*  
-3. 🌙 *“Night Changes” – One Direction*  
+<p align="center">
+  🌷 Currently vibing with these songs 🌷
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+
+🎵 [Can I Change My Mind? – Roy Buchanan](https://www.youtube.com/watch?v=a4R7_4bxc4M)  
+💫 [Changes, Pts. 1 & 2 – Neal Francis](https://www.youtube.com/watch?v=gV5lG5T4DgE)  
+🌙 [Can't Keep My Cool – Leland Blue](https://www.youtube.com/watch?v=tq5wS7H1KjA)  
+🍓 [15th Floor – PREP](https://www.youtube.com/watch?v=z8M7zuegQs0)
+
+</td>
+</tr>
+</table>
 
 ---
 
