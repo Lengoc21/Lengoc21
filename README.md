@@ -13,28 +13,22 @@
 
 ---
 
-### 🌸 About Me  
-
-💡 **Creative** – I love designing and coding in my own unique style.  
-🌈 **Independent** – I enjoy learning new things by experimenting.  
-🚀 **Ambitious** – Always looking forward to improve and create something meaningful.  
-
----
-
-<h2 align="center">🎧 music I really like 🎶</h2>
-
-<p align="center">
-  🌊 currently vibing with these soft vibes 🌊
-</p>
-
-<p align="center">
-  🔊 <a href="https://zingmp3.vn/bai-hat/Sleep-Well-CG5-CHI-CHI-Kathy-Chan-Cami-Cat/Z7ODA99D.html" target="_blank">Sleep Well – CG5, CHI-CHI, Kathy Chan & Cami Cat</a> <br/>
-  ☕ <a href="https://zingmp3.vn/bai-hat/Espresso-Sabrina-Carpenter/Z76BU80W.html" target="_blank">Espresso – Sabrina Carpenter</a> <br/>
-  💖 <a href="https://zingmp3.vn/bai-hat/Blank-Space-Taylor-s-Version-Taylor-Swift/Z70UAOD6.html" target="_blank">Blank Space (Taylor’s Version) – Taylor Swift</a>
-</p>
+### 💫 About Me
+- 🌸 Creative  
+- 🦋 Independent  
+- 🚀 Ambitious  
 
 ---
 
-<p align="center" style="color:#ff69b4; font-size:14px;">
-  💕 Thanks for visiting my GitHub! 💕  
+### 🎧 Now Playing
+
+<p align="center">
+  <iframe style="border-radius:12px" 
+          src="https://open.spotify.com/embed/track/2qSkIjg1o9h3YT9RAgYN75?utm_source=generator" 
+          width="300" height="152" 
+          frameBorder="0" 
+          allowfullscreen="" 
+          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+          loading="lazy">
+  </iframe>
 </p>
