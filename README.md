@@ -14,9 +14,9 @@
 ---
 
 ### 💫 About Me
-- 🌸 Creative  
-- 🦋 Independent  
-- 🚀 Ambitious  
+🌸 **Creative**  – I love designing and coding in my own unique style.  
+🌈 **Independent** – I enjoy learning new things by experimenting.  
+🚀 **Ambitious** – Always looking forward to improve and create something meaningful.
 
 ---
 
