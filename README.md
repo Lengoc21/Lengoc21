@@ -10,3 +10,25 @@
 <p align="center" style="color:#ff69b4; font-size:16px; font-style:italic;">
   🌷 I'm taking MIS311 course at EIU 🌷
 </p>
+
+---
+
+### 🌸 About Me  
+
+💡 **Creative** – I love designing and coding in my own unique style.  
+🌈 **Independent** – I enjoy learning new things by experimenting.  
+🚀 **Ambitious** – Always looking forward to improve and create something meaningful.  
+
+---
+
+### 🎧 My Favourite Music  
+
+1. 🎵 *“Until I Found You” – Stephen Sanchez*  
+2. 💫 *“Lover” – Taylor Swift*  
+3. 🌙 *“Night Changes” – One Direction*  
+
+---
+
+<p align="center" style="color:#ff69b4; font-size:14px;">
+  💕 Thanks for visiting my GitHub! 💕  
+</p>
