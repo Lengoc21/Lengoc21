@@ -24,27 +24,14 @@
 <h2 align="center">🎧 music I really like 🎶</h2>
 
 <p align="center">
-  ✨ soft indie + chill vibe ✨  
+  🌊 currently vibing with these soft vibes 🌊
 </p>
 
-<div align="center">
-
-🎵 **“3000” – BBNO$ & Diamond Pistols**  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1sKJwGfKTfNcU2n6SmvqMz?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-🎵 **“Until the End” – Spence Lee**  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7oEwSnFDuMsh2vGvMgZw9x?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-🎵 **“Lover Is a Day” – Cuco**  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4J7uQ1bQKJefjvG1mylG2K?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-🎵 **“Japanese Denim” – Daniel Caesar**  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5EGP5vbbh5xJYCV3Y3S1Rz?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-🎵 **“Lover Boy” – Phum Viphurit**  
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5bJ1DrEM4hNCafcDd1oxHx?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-</div>
+<p align="center">
+  🔊 <a href="https://zingmp3.vn/bai-hat/Sleep-Well-CG5-CHI-CHI-Kathy-Chan-Cami-Cat/Z7ODA99D.html" target="_blank">Sleep Well – CG5, CHI-CHI, Kathy Chan & Cami Cat</a> <br/>
+  ☕ <a href="https://zingmp3.vn/bai-hat/Espresso-Sabrina-Carpenter/Z76BU80W.html" target="_blank">Espresso – Sabrina Carpenter</a> <br/>
+  💖 <a href="https://zingmp3.vn/bai-hat/Blank-Space-Taylor-s-Version-Taylor-Swift/Z70UAOD6.html" target="_blank">Blank Space (Taylor’s Version) – Taylor Swift</a>
+</p>
 
 ---
 
