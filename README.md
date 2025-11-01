@@ -20,15 +20,18 @@
 
 ---
 
-### 🎧 Now Playing
+<h3 align="center">🎧 Now Playing 🎧</h3>
 
 <p align="center">
-  <iframe style="border-radius:12px" 
-          src="https://open.spotify.com/embed/track/2qSkIjg1o9h3YT9RAgYN75?utm_source=generator" 
-          width="300" height="152" 
-          frameBorder="0" 
-          allowfullscreen="" 
-          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-          loading="lazy">
-  </iframe>
+  <a href="https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75?si=axW0W-WkTNaSiuH-M2l7dQ" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b27377b38e2a82c10cbdafac5be8" 
+         alt="3000 - song cover" 
+         width="250" 
+         style="border-radius:20px; box-shadow:0 0 15px rgba(255,182,193,0.5);"/>
+  </a>
+</p>
+
+<p align="center" style="color:#ff69b4; font-style:italic;">
+  ▶️ <a href="https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75?si=axW0W-WkTNaSiuH-M2l7dQ" target="_blank">
+  Listen on Spotify</a>
 </p>
