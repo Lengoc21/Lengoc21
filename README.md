@@ -23,9 +23,9 @@
 <h3 align="center">🎧 Now Playing 🎧</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75?si=axW0W-WkTNaSiuH-M2l7dQ" target="_blank">
+  <a href="[![Spotify](https://img.shields.io/badge/Now_Playing-3000_🎧-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75)>
     <img src="https://i.scdn.co/image/ab67616d0000b27377b38e2a82c10cbdafac5be8" 
-         alt="3000 - song cover" 
+         alt="espresso - song cover" 
          width="250" 
          style="border-radius:20px; box-shadow:0 0 15px rgba(255,182,193,0.5);"/>
   </a>
