@@ -21,24 +21,30 @@
 
 ---
 
-<h2 align="center">🎧 really like music 🎶</h2>
+<h2 align="center">🎧 music I really like 🎶</h2>
 
 <p align="center">
-  🌷 Currently vibing with these songs 🌷
+  ✨ soft indie + chill vibe ✨  
 </p>
 
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
 
-🎵 [Can I Change My Mind? – Roy Buchanan](https://www.youtube.com/watch?v=a4R7_4bxc4M)  
-💫 [Changes, Pts. 1 & 2 – Neal Francis](https://www.youtube.com/watch?v=gV5lG5T4DgE)  
-🌙 [Can't Keep My Cool – Leland Blue](https://www.youtube.com/watch?v=tq5wS7H1KjA)  
-🍓 [15th Floor – PREP](https://www.youtube.com/watch?v=z8M7zuegQs0)
+🎵 **“3000” – BBNO$ & Diamond Pistols**  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1sKJwGfKTfNcU2n6SmvqMz?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-</td>
-</tr>
-</table>
+🎵 **“Until the End” – Spence Lee**  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7oEwSnFDuMsh2vGvMgZw9x?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+🎵 **“Lover Is a Day” – Cuco**  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4J7uQ1bQKJefjvG1mylG2K?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+🎵 **“Japanese Denim” – Daniel Caesar**  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5EGP5vbbh5xJYCV3Y3S1Rz?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+🎵 **“Lover Boy” – Phum Viphurit**  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5bJ1DrEM4hNCafcDd1oxHx?utm_source=generator" width="300" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+</div>
 
 ---
 
