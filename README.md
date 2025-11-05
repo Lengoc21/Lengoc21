@@ -39,19 +39,3 @@
 
 <h3 align="center">🌿 I love peaceful nature 🌿</h3>
 
-<p align="center">
-  <img src="<img width="2852" height="4032" alt="IMG_5971" src="https://github.com/user-attachments/assets/d8059218-bdd5-482d-86bf-9f7b5927b93e" />" 
-       width="260" 
-       style="border-radius:20px; margin:10px; box-shadow:0 0 15px rgba(0,0,0,0.2);" 
-       alt="nature photo 1"/>
-  <img src="<img width="3024" height="4032" alt="170570A0-63DB-444A-89C7-B41F950D0F2F" src="https://github.com/user-attachments/assets/0e215ae4-e7f9-4e5e-8b64-357902513b66" />" 
-       width="260" 
-       style="border-radius:20px; margin:10px; box-shadow:0 0 15px rgba(0,0,0,0.2);" 
-       alt="nature photo 2"/>
-  <img src="![79C1C8F0-0851-41C7-BD42-BDAEA4A2D882_1_201_a](https://github.com/user-attachments/assets/7d6557a5-311a-48a5-a71f-6e9b3ccc252d)" 
-       width="260" 
-       style="border-radius:20px; margin:10px; box-shadow:0 0 15px rgba(0,0,0,0.2);" 
-       alt="nature photo 3"/>
-</p>
-
-
