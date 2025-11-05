@@ -35,9 +35,10 @@
   ▶️ <a href="https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75?si=axW0W-WkTNaSiuH-M2l7dQ" target="_blank">
   Listen on Spotify</a>
 </p>
----
+<h3 align="center" style="color:#5c8a64; font-family:'Segoe UI', sans-serif;">
+  🌿 I love peaceful nature 🌿
 
-  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2fb232da-9424-4ac4-90de-462e90c0e893" /> <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b43f906b-18f8-40ea-bb8f-f8647f107523" /> 
+  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2fb232da-9424-4ac4-90de-462e90c0e893" /><img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b43f906b-18f8-40ea-bb8f-f8647f107523" /> 
 
 
 
