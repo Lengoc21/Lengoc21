@@ -37,5 +37,7 @@
 </p>
 ---
 
-<h3 align="center">🌿 I love peaceful nature 🌿</h3>
+  <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/2fb232da-9424-4ac4-90de-462e90c0e893" /> <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b43f906b-18f8-40ea-bb8f-f8647f107523" /> 
+
+
 
