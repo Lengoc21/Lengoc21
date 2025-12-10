@@ -8,15 +8,15 @@
 </p>
 
 <p align="center" style="color:#ff69b4; font-size:16px; font-style:italic;">
-  🌷 I'm taking MIS311 course at EIU 🌷
+   Currently, I'm a Marketing student at Eastern Internation University �
 </p>
 
 ---
 
 ### 💫 About Me
-🌸 **Creative**  – I love designing and coding in my own unique style.  
-🌈 **Independent** – I enjoy learning new things by experimenting.  
-🚀 **Ambitious** – Always looking forward to improve and create something meaningful.
+**Creative**  – I love designing and coding in my own unique style.  
+**Independent** – I enjoy learning new things by experimenting.  
+**Ambitious** – Always looking forward to improve and create something meaningful.
 
 ---
 
